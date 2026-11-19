@@ -1,0 +1,9 @@
+git add . && git commit -m "security fixes, VPN failover, diagnostics, tests" && git push
+
+
+
+rm -rf app .github build.gradle settings.gradle gradle.properties README.md server-setup backend keystore.properties.example .gitignore 
+
+
+
+
